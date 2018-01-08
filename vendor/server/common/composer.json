@@ -1,0 +1,10 @@
+{
+    "name": "server/common",
+    "description": "common lib",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+			"Bdtt\\": "src/Bdtt"
+		}
+    }  
+} 
